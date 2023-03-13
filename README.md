@@ -20,3 +20,4 @@
   
   <h4> Websites </h4>
 https://github.com/msum500
+https://msum500.github.io/stats220/
